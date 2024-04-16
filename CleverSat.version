@@ -1,31 +1,30 @@
 {
     "NAME"     : "Contract Pack: Clever Sats",
-    "URL"      : "https://github.com/severedsolo/CleverSat/blob/master/CleverSat.version",
+    "URL"      : "https://github.com/skalou/CleverSat/edit/master/CleverSat.version",
     "DOWNLOAD" : "https://github.com/severedsolo/CleverSat/releases",
-    "GITHUB" :
     {
-        "USERNAME" : "severedsolo",
+        "USERNAME" : "skalou",
         "REPOSITORY" : "CleverSat",
 	},
 	
     "VERSION" :
     {
         "MAJOR" : 1,
-        "MINOR" : 3,
+        "MINOR" : 5,
         "PATCH" : 0,
-        "BUILD" : 1
+        "BUILD" : 0
     },
     "KSP_VERSION" :
     {
         "MAJOR" : 1,
-        "MINOR" : 1,
-        "PATCH" : 3
+        "MINOR" : 12,
+        "PATCH" : 5
     },
     "KSP_VERSION_MIN" :
     {
         "MAJOR" : 1,
-        "MINOR" : 1,
-        "PATCH" : 3
+        "MINOR" : 8,
+        "PATCH" : 1
     },
     "KSP_VERSION_MAX" :
     {
