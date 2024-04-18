@@ -1,0 +1,64 @@
+CleverSat 1.5
+date
+aa
+
+CleverSat 1.4
+Dec 13, 2016
+Updated for compatibility with Galileos Planet Pack
+
+
+CleverSat 1.3.0.1
+Oct 22, 2016
+Updated version file to keep CKAN happy. No other changes
+
+
+CleverSat 1.3
+Aug 10, 2016
+Introduced random element to contract generation
+
+
+CleverSat 1.2
+Jul 23, 2016
+Updated for latest version of Contract Configurator.
+Added new agent "Astronomical Survey Society"
+Removed MiniAVC, as if you really want that functionality, you are probably running KSP-AVC anyway
+
+
+CleverSat 1.1
+Jun 22, 2016
+Added new mission "Destroy a Rogue AI"
+Changed ProbeMalfunction to complement RogueAI
+Added Strategia support
+
+DEPENDENCIES
+Now requires Contract Configurator 1.13.0
+Now requires KSP 1.1.3
+Now requires Module Manager
+
+
+CleverSat 1.0.0.1
+Apr 10, 2016
+CKAN 1.1 compatibility update
+
+
+Contract Pack: Clever Sats 1.0
+Feb 24, 2016
+Full Release. Changes from last version:
+Added RemoteTech integration
+
+
+CleverSat 0.2 Pre-release
+Feb 17, 2016
+Fixed a couple of bugs with Core missions not completing properly.
+Added a new mission - malfunctioning probe. (With Multiple possible endings, and some fun sci-fi/fantasy references!)
+
+
+
+CleverSat 0.1.1 Pre-release
+Feb 16, 2016
+Satellites now must be unmanned
+
+
+CleverSat 0.1 Pre-release
+Feb 14, 2016
+Initial Release
