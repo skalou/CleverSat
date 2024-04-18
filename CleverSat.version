@@ -1,11 +1,7 @@
 {
 	"NAME"     : "Contract Pack: Clever Sats",
-	"URL":"https://raw.githubusercontent.com/skalou/CleverSat/master/CleverSat.version",
+	"URL"	   :"https://raw.githubusercontent.com/skalou/CleverSat/master/CleverSat.version",
 	"DOWNLOAD" : "https://github.com/skalou/CleverSat/releases",
-    {
-        "USERNAME" : "skalou",
-        "REPOSITORY" : "CleverSat",
-	},
 	
     "VERSION" :
     {
